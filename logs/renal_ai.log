@@ -1,0 +1,8 @@
+2025-11-21 19:33:09,673 - model_manager - INFO - 加载AI模型（占位，未加载实际模型）
+2025-11-21 19:33:09,751 - __main__ - INFO - === 肾病AI分析系统启动 ===
+2025-11-21 19:33:09,752 - __main__ - INFO - 服务地址: http://localhost:8000
+2025-11-21 19:33:09,752 - __main__ - INFO - API文档: http://localhost:8000/docs
+2025-11-21 20:02:25,574 - model_manager - INFO - 加载AI模型（占位，未加载实际模型）
+2025-11-21 20:02:25,649 - __main__ - INFO - === 肾病AI分析系统启动 ===
+2025-11-21 20:02:25,649 - __main__ - INFO - 服务地址: http://localhost:8000
+2025-11-21 20:02:25,649 - __main__ - INFO - API文档: http://localhost:8000/docs

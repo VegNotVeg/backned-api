@@ -1,0 +1,15 @@
+# Web框架与服务
+fastapi>=0.110.0
+uvicorn>=0.27.0
+# 认证相关
+pyjwt>=2.8.0
+passlib>=1.7.4
+bcrypt>=4.0.1  # passlib的bcrypt依赖
+# 图像处理（肾病AI核心）
+Pillow>=10.4.0
+scikit-image>=0.24.0
+# 其他工具
+python-multipart>=0.0.9  # FastAPI文件上传依赖
+PyYAML>=6.0.1            # 解析models.yaml配置
+numpy>=1.26.0
+scipy>=1.12.0
